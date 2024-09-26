@@ -12,6 +12,7 @@ namespace Assignment_2._3_Part_1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Testing Github");
             string path = (@"C:\Files\Nezien.txt");
             string name = "Belebie";
             int age = 25;
